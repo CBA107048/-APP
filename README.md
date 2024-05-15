@@ -3,3 +3,4 @@
 請直接安裝 Resume.apk 檔案即可閱讀
 
 
+![Screenshot_20240515_144121_Resume](https://github.com/CBA107048/Resume-APP/assets/83400710/c09b1d17-0ef6-4cfe-80f4-e595ebf7ba8d)
