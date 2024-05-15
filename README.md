@@ -4,3 +4,5 @@
 
 
 ![Screenshot_20240515_144121_Resume](https://github.com/CBA107048/Resume-APP/assets/83400710/c09b1d17-0ef6-4cfe-80f4-e595ebf7ba8d)
+
+![Screenshot_20240515_144113_Resume](https://github.com/CBA107048/Resume-APP/assets/83400710/5d868361-6a37-4864-b661-d96f1c26f96b)
